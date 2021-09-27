@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meteora277
+- 👋 Hi, I’m Justin Diaz
 
 I am a beginner developer, mostly self taught but I am looking into attending a coding bootcamp in the near future. 
 
