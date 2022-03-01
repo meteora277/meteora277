@@ -18,8 +18,6 @@ Hello my name is **Justin Diaz** I am a junior web developer who started learnin
 - 📄 Know about my experiences [https://www.canva.com/design/DAE23dOfzZM/VZCPip5Uwn7QvYUm6YGN2w/view?utm_content=DAE23dOfzZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAE23dOfzZM/VZCPip5Uwn7QvYUm6YGN2w/view?utm_content=DAE23dOfzZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 - ⚡ Fun fact **Got 5th in a Toronto latte art competition**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
