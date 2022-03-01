@@ -1,52 +1,27 @@
-# [Justin Diaz](https://github.com/meteora277)
 
-Hello my name is **Justin Diaz** I am a fledgling web developer who started learning in 2020 when the pandemic rocked the world. I am a **long time barista**, with starbucks for more than 10 years. At one point i was working at 2 cafe jobs daily, sometimes working for more than 13 hours. I am very accustomed to fast paced environments, long shifts learning on the fly, and working in a team. 
+<h1 align="center">Hi 👋, I'm Justin Diaz</h1>
+<h3 align="center">A junior web developer excited to build</h3>
 
-
-**I really like building things.** Some of my hobbies include, cosplaying, drawing, building computers, and gaming. Alot of the time I like to jump straight into the deep end and hope to see what comes out at the end.
-
-
-My post bootcamp goal right now is to become **full stack developer** and start applying for jobs. Hopefully land one at a place where i can constantly learn new things. 
-Roles I am looking to fill :
-* Junior Developer
-* Front End Developer
-* Full Stack Developer
-* Software developer
-* React / React Native Developer
+Hello my name is **Justin Diaz** I am a junior web developer who started learning in 2020 when the pandemic rocked the world. I spent about 2 years self learning and when I decided to make a career change I enrolled in the Lighthouse Labs Web Development Bootcamp. I have always had a passion for building and learning to code has put a new tool into my hands.
 
 
-My personal goals are to Work on some passion project, such as; creating a beginner tutorial for the trading card game **Flesh and Blood** (I just recenlty found out about the game from my girlfriend, and am just learning how to play. I was surprised there was no beginner friendly web app to help newbies get into the game.) Another project i'd like to make is a tl;dr guide hosting website. Where 10 min long youtube videos can be condensed into a tl;dr recipe styled page.
+- 🔭 I’m currently working on **Flesh and Blood tutorial web app**
 
+- 🌱 I’m currently learning **React Native, Vue.js**
 
-I really have been enjoying coding during the last couple months. I have the tendency to **go down the rabbit hole** when i'm reviewing API docs. I have delved into learning a lot of different languages. Some of them include
+- 👨‍💻 All of my projects are available at [https://github.com/meteora277](https://github.com/meteora277)
 
+- 💬 Ask me about **React, coffee, or anime**
 
-* HTML / CSS 
-  * most common tags
-  * still learning semantic tags
-  * flexbox / grid
-  * responive web design
-  
+- 📫 How to reach me **justin.s.diaz@gmail.com**
 
-* Javascript
-  * functions
-  * objects
-  
+- 📄 Know about my experiences [https://www.canva.com/design/DAE23dOfzZM/VZCPip5Uwn7QvYUm6YGN2w/view?utm_content=DAE23dOfzZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton](https://www.canva.com/design/DAE23dOfzZM/VZCPip5Uwn7QvYUm6YGN2w/view?utm_content=DAE23dOfzZM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-* React 
-  * styled-components
-  * react-router
-  * functional / Class components
-  * state 
-  * component lifecycle methods
-  * Hooks (useState, useRef, useContext, useEffect)
+- ⚡ Fun fact **Got 5th in a Toronto latte art competition**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-* SQL
-  * CRUD
-* basics of Node/ Express
-* Figma
-
-
-
-I am also a full on weeb, recommend me some anime if you know anything good.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
